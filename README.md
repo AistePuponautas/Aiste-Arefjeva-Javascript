@@ -1,2 +1,2 @@
 # Aiste-Arefjeva-Javascript
-<html> Sveiki visi
+<h1> Sveiki visi
